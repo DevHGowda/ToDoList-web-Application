@@ -9,7 +9,9 @@ Say goodbye to sticky notes and cluttered calendars, and say hello to our conven
 Used Techonologys: Node.js Express MongoDB-6.0v Mongoose EJS HTMl-5 CSS-3 JavaScript-ES6
 
 To Use the web Application Downlode the files and install the required pakages from the command prompt command: npm i
+
 After installing the pakages type: nodemon app.js, in command prompt
+
 Open the browser and type localhost:3000 
 
 You can use TodoList.
